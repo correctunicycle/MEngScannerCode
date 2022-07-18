@@ -23,4 +23,4 @@ This software was made completely from scratch. Code written by myself unless ot
 * unixMotorWrapper : Wrapper for unix motor code, will also work with the windows code, just need to change the imported library. Code could very easily be added to do this automatically. 
 * windowsMotorCode : Source file for unix motor code
 
-There are a number of things that could be improved about this code, most urgently that little addition to the motor wrappers. It should also be packaged as an executable but there was not time. To understand the methodology and design process please see the software report PDF. The GUI is not mentioned in the report as it was created afterwards.
+There are a number of things that could be improved about this code, most urgently that little addition to the motor wrapper. It should also be packaged as an executable but there was not time. To understand the methodology and design process please see the software report PDF. The GUI is not mentioned in the report as it was created afterwards.
