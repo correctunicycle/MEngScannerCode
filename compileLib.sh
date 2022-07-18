@@ -1,0 +1,1 @@
+gcc -shared -o NewUnixMotors.so -fPIC unixMotorCode.c
